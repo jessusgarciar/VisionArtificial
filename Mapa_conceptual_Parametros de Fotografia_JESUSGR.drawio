@@ -1,0 +1,76 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="Página-1" id="eOVR-jWTcrnd-tMmE50t">
+    <mxGraphModel dx="2135" dy="2332" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="e1" edge="1" parent="1" source="main" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;endArrow=block;endFill=1;strokeWidth=2;fontColor=#475569;fontSize=13;labelBackgroundColor=#F8FAFC;" target="h1" value="controla">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="e2" edge="1" parent="1" source="main" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;endArrow=block;endFill=1;strokeWidth=2;fontColor=#475569;fontSize=13;labelBackgroundColor=#F8FAFC;" target="h2" value="determina">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="e3" edge="1" parent="1" source="main" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;endArrow=block;endFill=1;strokeWidth=2;fontColor=#475569;fontSize=13;labelBackgroundColor=#F8FAFC;" target="h3" value="coordina">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="e4" edge="1" parent="1" source="h1" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;endArrow=block;endFill=1;strokeWidth=2;fontColor=#475569;fontSize=13;labelBackgroundColor=#F8FAFC;" target="exp" value="define duración">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="e5" edge="1" parent="1" source="h1" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;endArrow=block;endFill=1;strokeWidth=2;fontColor=#475569;fontSize=13;labelBackgroundColor=#F8FAFC;exitX=0;exitY=0.5;entryX=0;entryY=0.5;" target="shutter" value="usa">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="e6" edge="1" parent="1" source="h2" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;endArrow=block;endFill=1;strokeWidth=2;fontColor=#475569;fontSize=13;labelBackgroundColor=#F8FAFC;" target="res" value="se mide con">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="e7" edge="1" parent="1" source="res" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;endArrow=block;endFill=1;strokeWidth=2;fontColor=#475569;fontSize=13;labelBackgroundColor=#F8FAFC;" target="bw" value="eleva demanda de datos">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="e8" edge="1" parent="1" source="h2" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;endArrow=block;endFill=1;strokeWidth=2;fontColor=#475569;fontSize=13;labelBackgroundColor=#F8FAFC;exitX=1;exitY=0.5;entryX=1;entryY=0.5;" target="lat" value="se evalúa con">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="e9" edge="1" parent="1" source="h3" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;endArrow=block;endFill=1;strokeWidth=2;fontColor=#475569;fontSize=13;labelBackgroundColor=#F8FAFC;" target="trig" value="se realiza por">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="e10" edge="1" parent="1" source="trig" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;endArrow=block;endFill=1;strokeWidth=2;fontColor=#475569;fontSize=13;labelBackgroundColor=#F8FAFC;" target="strobe" value="activa y alinea">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="title" parent="1" style="text;html=1;align=center;verticalAlign=middle;fontSize=31;fontStyle=1;" value="MAPA CONCEPTUAL - PARAMETROS DE FOTOGRAFIA&lt;div&gt;Jonathan de Jesus Garcia Rodriguez ITIC9&lt;/div&gt;" vertex="1">
+          <mxGeometry height="55" width="1650" x="70" y="-30" as="geometry" />
+        </mxCell>
+        <mxCell id="main" parent="1" style="rounded=1;arcSize=14;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;spacing=15;strokeWidth=2;" value="&lt;div style=&quot;font-size:20px;font-weight:700&quot;&gt;Captura de imágenes&lt;/div&gt;" vertex="1">
+          <mxGeometry height="78" width="460" x="670" y="135" as="geometry" />
+        </mxCell>
+        <mxCell id="h1" parent="1" style="rounded=1;arcSize=14;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;spacing=15;strokeWidth=2;" value="&lt;div style=&quot;font-size:20px;font-weight:700&quot;&gt;Exposición y lectura&lt;/div&gt;" vertex="1">
+          <mxGeometry height="75" width="400" x="125" y="310" as="geometry" />
+        </mxCell>
+        <mxCell id="h2" parent="1" style="rounded=1;arcSize=14;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;spacing=15;strokeWidth=2;fillColor=default;" value="&lt;div style=&quot;font-size:20px;font-weight:700&quot;&gt;Datos y ritmo&lt;/div&gt;" vertex="1">
+          <mxGeometry height="75" width="400" x="700" y="310" as="geometry" />
+        </mxCell>
+        <mxCell id="h3" parent="1" style="rounded=1;arcSize=14;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;spacing=15;strokeWidth=2;" value="&lt;div style=&quot;font-size:20px;font-weight:700&quot;&gt;Sincronización&lt;/div&gt;" vertex="1">
+          <mxGeometry height="75" width="400" x="1275" y="310" as="geometry" />
+        </mxCell>
+        <mxCell id="exp" parent="1" style="rounded=1;arcSize=12;whiteSpace=wrap;html=1;align=left;verticalAlign=middle;spacingLeft=20;spacingRight=17;spacingTop=12;spacingBottom=12;strokeWidth=1.7;" value="&lt;div style=&quot;text-align:left;line-height:1.32&quot;&gt;&lt;div style=&quot;font-size:18px;font-weight:700;margin-bottom:9px&quot;&gt;Tiempo de exposición (shutter speed)&lt;/div&gt;&lt;div style=&quot;font-size:15px&quot;&gt;Tiempo durante el cual el sensor recibe luz.&lt;br&gt;Si se acorta, reduce el desenfoque por movimiento y capta menos luz.&lt;/div&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="175" width="450" x="100" y="440" as="geometry" />
+        </mxCell>
+        <mxCell id="shutter" parent="1" style="rounded=1;arcSize=12;whiteSpace=wrap;html=1;align=left;verticalAlign=middle;spacingLeft=20;spacingRight=17;spacingTop=12;spacingBottom=12;strokeWidth=1.7;" value="&lt;div style=&quot;text-align:left;line-height:1.32&quot;&gt;&lt;div style=&quot;font-size:18px;font-weight:700;margin-bottom:9px&quot;&gt;Obturador global vs. rodante&lt;/div&gt;&lt;div style=&quot;font-size:15px&quot;&gt;Global: expone todos los píxeles al mismo tiempo.&lt;br&gt;Rodante: expone por filas; el movimiento puede deformar la imagen.&lt;/div&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="175" width="450" x="100" y="705" as="geometry" />
+        </mxCell>
+        <mxCell id="res" parent="1" style="rounded=1;arcSize=12;whiteSpace=wrap;html=1;align=left;verticalAlign=middle;spacingLeft=20;spacingRight=17;spacingTop=12;spacingBottom=12;strokeWidth=1.7;" value="&lt;div style=&quot;text-align:left;line-height:1.32&quot;&gt;&lt;div style=&quot;font-size:18px;font-weight:700;margin-bottom:9px&quot;&gt;Resolución vs. fps&lt;/div&gt;&lt;div style=&quot;font-size:15px&quot;&gt;Resolución: píxeles por imagen.&lt;br&gt;fps: imágenes capturadas por segundo.&lt;br&gt;Más resolución puede limitar los fps alcanzables.&lt;/div&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="155" width="450" x="675" y="425" as="geometry" />
+        </mxCell>
+        <mxCell id="bw" parent="1" style="rounded=1;arcSize=12;whiteSpace=wrap;html=1;align=left;verticalAlign=middle;spacingLeft=20;spacingRight=17;spacingTop=12;spacingBottom=12;strokeWidth=1.7;" value="&lt;div style=&quot;text-align:left;line-height:1.32&quot;&gt;&lt;div style=&quot;font-size:18px;font-weight:700;margin-bottom:9px&quot;&gt;Ancho de banda de la interfaz&lt;/div&gt;&lt;div style=&quot;font-size:15px&quot;&gt;Capacidad de transferir datos de la cámara.&lt;br&gt;Más píxeles, bits por píxel o fps requieren más ancho de banda.&lt;/div&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="155" width="450" x="675" y="635" as="geometry" />
+        </mxCell>
+        <mxCell id="lat" parent="1" style="rounded=1;arcSize=12;whiteSpace=wrap;html=1;align=left;verticalAlign=middle;spacingLeft=20;spacingRight=17;spacingTop=12;spacingBottom=12;strokeWidth=1.7;" value="&lt;div style=&quot;text-align:left;line-height:1.32&quot;&gt;&lt;div style=&quot;font-size:18px;font-weight:700;margin-bottom:9px&quot;&gt;Latencia vs. framerate&lt;/div&gt;&lt;div style=&quot;font-size:15px&quot;&gt;Latencia: demora desde la captura hasta disponer de la imagen.&lt;br&gt;Framerate: fotogramas por segundo (fps).&lt;/div&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="125" width="450" x="675" y="835" as="geometry" />
+        </mxCell>
+        <mxCell id="trig" parent="1" style="rounded=1;arcSize=12;whiteSpace=wrap;html=1;align=left;verticalAlign=middle;spacingLeft=20;spacingRight=17;spacingTop=12;spacingBottom=12;strokeWidth=1.7;" value="&lt;div style=&quot;text-align:left;line-height:1.32&quot;&gt;&lt;div style=&quot;font-size:18px;font-weight:700;margin-bottom:9px&quot;&gt;Sincronización / disparo (triggering)&lt;/div&gt;&lt;div style=&quot;font-size:15px&quot;&gt;Una señal inicia la exposición en un instante definido; permite coordinar cámara y evento.&lt;/div&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="175" width="450" x="1250" y="440" as="geometry" />
+        </mxCell>
+        <mxCell id="strobe" parent="1" style="rounded=1;arcSize=12;whiteSpace=wrap;html=1;align=left;verticalAlign=middle;spacingLeft=20;spacingRight=17;spacingTop=12;spacingBottom=12;strokeWidth=1.7;" value="&lt;div style=&quot;text-align:left;line-height:1.32&quot;&gt;&lt;div style=&quot;font-size:18px;font-weight:700;margin-bottom:9px&quot;&gt;Iluminación estroboscópica sincronizada&lt;/div&gt;&lt;div style=&quot;font-size:15px&quot;&gt;Un pulso breve de luz coincide con la exposición; ayuda a congelar objetos en movimiento.&lt;/div&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="175" width="450" x="1250" y="705" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

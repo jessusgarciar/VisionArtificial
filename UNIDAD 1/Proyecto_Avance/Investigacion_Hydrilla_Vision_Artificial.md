@@ -278,3 +278,14 @@ El proyecto tiene un vacío de investigación defendible si se concentra en la *
 [^22]: CVAT. “[Creating Masks](https://docs.cvat.ai/docs/manual/advanced/annotation-with-polygons/creating-mask/)” y “[COCO Format](https://docs.cvat.ai/docs/manual/advanced/formats/format-coco/).” Documentación oficial.
 [^23]: DVC. “[ML Experiments as Code](https://dvc.org/blog/ml-experiment-versioning/).” Documentación oficial.
 [^24]: ONNX Runtime. “[Inference with ONNX Runtime](https://onnxruntime.ai/docs/tutorials/accelerate-pytorch/pytorch.html)” y “[Execution Providers](https://onnxruntime.ai/docs/execution-providers/).” Documentación oficial.
+
+
+## Notas relacionadas
+
+- [[VisionArtificial/README|Índice de Visión Artificial]] — Navegación de la materia y sus temas.
+- [[CienciaDatos/UNIDAD I/Guia_Examen_Unidad_1_Respondida|Guía respondida de Ciencia de Datos]] — Fundamentos de ciencia de datos para el diseño experimental.
+- [[VisionArtificial/UNIDAD 1/Proyecto_Avance/Articulos Vision Artificial|Artículos de visión artificial]] — Lista inicial de fuentes de la revisión.
+- [[VisionArtificial/UNIDAD 1/Proyecto_Avance/Resumen Articulos Vision Artificial|Resúmenes de artículos]] — Resúmenes de la literatura revisada.
+- [[VisionArtificial/UNIDAD 1/Proyecto_Avance/Sistema inteligente para la detección de Hydrilla verticillata con capacidad de abstención|Proyecto Hydrilla con abstención]] — Propuesta centrada en generalización y abstención.
+- [[VisionArtificial/UNIDAD 3/TAREAS/Tarea 3.3|Tarea 3.3 · Capturas de compresión de video]] — Capturas de FFmpeg relacionadas con la preparación de video del stack.
+- [[VisionArtificial/UNIDAD 3/TAREAS/Tarea 3.2|Tarea 3.2 · Contraste RGB y TIFF]] — Práctica de contraste e identificación de bandas de imágenes.

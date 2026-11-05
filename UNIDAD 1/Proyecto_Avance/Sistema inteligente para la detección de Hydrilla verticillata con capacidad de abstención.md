@@ -246,3 +246,16 @@ La mejora puede buscarse mediante transferencia de aprendizaje, aumento de datos
 La ventaja del sistema no será únicamente obtener una precisión mayor, sino proporcionar resultados más confiables. En aplicaciones ambientales, una clasificación incorrecta puede producir decisiones equivocadas sobre inspección, muestreo o control de vegetación.
 
 La opción “requiere revisión” permite que el sistema reconozca sus limitaciones y solicite intervención humana cuando encuentra imágenes ambiguas. De esta manera, se propone una herramienta de apoyo para el monitoreo de Hydrilla verticillata y no un reemplazo absoluto de la validación realizada por especialistas.
+
+
+## Notas relacionadas
+
+- [[VisionArtificial/README|Índice de Visión Artificial]] — Navegación de la materia y sus temas.
+- [[CienciaDatos/UNIDAD I/Guia_Examen_Unidad_1_Respondida|Guía respondida de Ciencia de Datos]] — Fundamentos de aprendizaje, datos etiquetados y evaluación de modelos.
+- [[VisionArtificial/UNIDAD 1/ACTIVIDADES U1/ACTIVIDAD 1.1|Actividad 1.1 · Aplicación en una presa]] — Antecedente temático de aplicación de visión en una presa.
+- [[VisionArtificial/UNIDAD 1/Proyecto_Avance/Investigacion_Hydrilla_Vision_Artificial|Investigación de Hydrilla]] — Investigación de antecedentes y diseño experimental.
+- [[VisionArtificial/UNIDAD 1/Proyecto_Avance/Resumen Articulos Vision Artificial|Resúmenes de artículos]] — Síntesis de la literatura sobre detección y monitoreo de Hydrilla.
+- [[VisionArtificial/UNIDAD 2/SEMANA 2/24-09-2026|24-09-2026 · Visión embebida]] — Criterios para valorar un posible despliegue en visión embebida.
+- [[VisionArtificial/UNIDAD 3/TAREAS/Tarea 3.3-fotos|Tarea 3.3-fotos · Segmentación y morfología]] — Técnicas de segmentación y morfología relacionadas con el procesamiento vegetal.
+- [[VisionArtificial/UNIDAD 1/SEMANA 1/26-08-2026|26-08-2026 · Propuesta sustentada en literatura]] — Objetivo académico de elaborar una propuesta sustentada en literatura.
+- [[VisionArtificial/UNIDAD 3/ACTIVIDADES/HerramientasIA.excalidraw|Herramientas de IA]] — Mapa de herramientas de datos, aprendizaje y visión relacionadas con el stack.

@@ -29,3 +29,12 @@ El estudio investigó por qué desaparecía la Hydrilla plantada en un estanque 
 #### 8. Purification Effect of Improved Ecological Floating Bed on the Caohai of Dianchi Lake Catchment
 
 El artículo abordó la contaminación y eutrofización del lago Caohai, perteneciente a la cuenca del lago Dianchi. Los autores diseñaron una cama flotante ecológica mejorada para purificar el agua contaminada. El sistema incluyó material de soporte, Canna indica, Hydrilla verticillata y un dispositivo de aireación. Su funcionamiento se comparó con una cama flotante tradicional que no incluía Hydrilla. Durante 25 días se analizaron la demanda química de oxígeno, el nitrógeno total y el fósforo total. La cama mejorada eliminó 84 % de COD, 87.4 % de nitrógeno total y 94.2 % de fósforo total. Su mejor desempeño se relacionó con la interacción entre las plantas, los microorganismos, las raíces, el material de soporte y la aireación. Para mejorar la propuesta se requiere probarla a escala real, optimizar el oxígeno y controlar el posible carácter invasor de la Hydrilla.
+
+
+## Notas relacionadas
+
+- [[VisionArtificial/README|Índice de Visión Artificial]] — Navegación de la materia y sus temas.
+- [[VisionArtificial/UNIDAD 1/Proyecto_Avance/Articulos Vision Artificial|Artículos de visión artificial]] — Tabla de artículos y enlaces de consulta.
+- [[VisionArtificial/UNIDAD 1/Proyecto_Avance/Investigacion_Hydrilla_Vision_Artificial|Investigación de Hydrilla]] — Revisión crítica y ampliación de los antecedentes.
+- [[VisionArtificial/UNIDAD 1/Proyecto_Avance/Sistema inteligente para la detección de Hydrilla verticillata con capacidad de abstención|Proyecto Hydrilla con abstención]] — Proyecto al que aportan antecedentes estos artículos.
+- [[VisionArtificial/UNIDAD 1/TAREAS/TAREA 1.2 ARTICULOS EN ZOTERO|Tarea 1.2 · Artículos en Zotero]] — Evidencia de la colección bibliográfica en Zotero.

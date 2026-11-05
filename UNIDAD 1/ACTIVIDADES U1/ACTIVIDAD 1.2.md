@@ -10,3 +10,10 @@ En la agricultura, la visión artificial permite identificar enfermedades y plag
 ### Diagnóstico médico
 
 La visión artificial es cada vez más utilizada en el diagnóstico médico, especialmente en la interpretación de imágenes médicas, como radiografías, tomografías computarizadas o resonancias magnéticas. Los algoritmos de visión artificial pueden detectar anomalías o patrones específicos en las imágenes, lo que ayuda a los médicos a diagnosticar enfermedades y planificar tratamientos de manera más precisa y rápida.
+
+
+## Notas relacionadas
+
+- [[VisionArtificial/README|Índice de Visión Artificial]] — Navegación de la materia y sus temas.
+- [[VisionArtificial/UNIDAD 1/SEMANA 1/26-08-2026|26-08-2026 · Propuesta sustentada en literatura]] — Actividad asociada a la propuesta sustentada en literatura.
+- [[VisionArtificial/UNIDAD 2/ACTIVIDADES U2/ACTIVIDAD 2.1|Actividad 2.1 · Qué es visión artificial]] — Definición y etapas de la visión artificial aplicadas a estos ejemplos.

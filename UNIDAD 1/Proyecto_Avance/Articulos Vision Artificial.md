@@ -10,3 +10,12 @@ https://ieeexplore.ieee.org/document/10113462
 https://ieeexplore.ieee.org/document/5893645
 https://ieeexplore.ieee.org/document/5964552
 https://ieeexplore.ieee.org/document/6519813
+
+
+## Notas relacionadas
+
+- [[VisionArtificial/README|Índice de Visión Artificial]] — Navegación de la materia y sus temas.
+- [[VisionArtificial/UNIDAD 1/Proyecto_Avance/Resumen Articulos Vision Artificial|Resúmenes de artículos]] — Síntesis de los artículos reunidos en la tabla.
+- [[VisionArtificial/UNIDAD 1/Proyecto_Avance/Investigacion_Hydrilla_Vision_Artificial|Investigación de Hydrilla]] — Revisión crítica que evalúa y amplía estas fuentes.
+- [[VisionArtificial/UNIDAD 1/TAREAS/TAREA 1.2 ARTICULOS EN ZOTERO|Tarea 1.2 · Artículos en Zotero]] — Captura de la colección bibliográfica en Zotero.
+- [[VisionArtificial/UNIDAD 1/SEMANA 1/26-08-2026|26-08-2026 · Propuesta sustentada en literatura]] — Objetivo de formular una propuesta sustentada en literatura.
